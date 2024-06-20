@@ -1,6 +1,6 @@
 class Main{
-    void add(int x){
-        int ans  = x+2;
+    void add(int x,int y){
+        int ans = x+y;
         System.out.println(ans);
     }
     public static void main(String args[]){
